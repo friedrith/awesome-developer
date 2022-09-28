@@ -6,7 +6,7 @@
 - [Share API](https://web.dev/web-share/)
 - [Regex](https://ihateregex.io/)
 
-Css frameworks:
+### Css frameworks:
 
 - [Bulma](https://bulma.io/): beautiful by default, a lot of qualitative extensions
 - [Element-plus](https://element-plus.org) (Vue only)
@@ -19,7 +19,10 @@ Css frameworks:
 - [Foundation](https://get.foundation/): lot of components missing (date pickers, etc)
 - [UiKit](https://getuikit.com/): no sophisticated components (date pickers, etc)
 
-  List of frameworks:
+
+
+
+### List of frameworks
 
 - https://geekflare.com/fr/best-css-frameworks/
 
