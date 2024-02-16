@@ -19,9 +19,6 @@
 - [Foundation](https://get.foundation/): lot of components missing (date pickers, etc)
 - [UiKit](https://getuikit.com/): no sophisticated components (date pickers, etc)
 
-
-
-
 ### List of frameworks
 
 - https://geekflare.com/fr/best-css-frameworks/
@@ -29,3 +26,8 @@
 ## Mono repos
 
 - [Introduction to mono repos](https://www.youtube.com/watch?v=9iU_IE6vnJ8)
+- [Turborepo](https://turborepo.com/): a mono repo manager
+
+## Documentation
+
+- [Mintlify](https://mintlify.com/)
