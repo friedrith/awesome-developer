@@ -22,6 +22,9 @@
 - [Bootstrap](https://getbootstrap.com/): hard to customize
 - [Foundation](https://get.foundation/): lot of components missing (date pickers, etc)
 - [UiKit](https://getuikit.com/): no sophisticated components (date pickers, etc)
+- [Ant Design](https://ant.design/): a design system for enterprise-level products
+- [Chakra](https://chakra-ui.com/): a simple, modular and accessible component library that gives you the building blocks you need to build your React applications
+- [Park UI](https://park-ui.com/): a modern, responsive and accessible component library for React, Solid, Svelte and Vue
 
 ## Libraries
 
