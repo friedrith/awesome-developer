@@ -1,13 +1,17 @@
 # A curated list for developers
 
-## Frontend
+## Js frameworks
 
-- [Making GitHub’s new homepage fast and performant](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/): very useful article to optimize content loading
-- [Share API](https://web.dev/web-share/)
-- [Regex](https://ihateregex.io/)
+- [React](https://reactjs.org/)
+- [Vue](https://vuejs.org/)
+- [Svelte](https://svelte.dev/)
+- [Angular](https://angular.io/)
 
 ### Css frameworks:
 
+- [MUI](https://mui.com/): React only, easily customizable component library
+- [Tailwind](https://tailwindcss.com/): not a framework, but a utility-first CSS framework for rapidly building custom designs
+- [Radix](https://www.radix-ui.com/): a set of low-level UI primitives for React
 - [Bulma](https://bulma.io/): beautiful by default, a lot of qualitative extensions
 - [Element-plus](https://element-plus.org) (Vue only)
 - [Buefy](https://buefy.org): really good
@@ -19,9 +23,17 @@
 - [Foundation](https://get.foundation/): lot of components missing (date pickers, etc)
 - [UiKit](https://getuikit.com/): no sophisticated components (date pickers, etc)
 
-### List of frameworks
+## Libraries
 
-- https://geekflare.com/fr/best-css-frameworks/
+- [Lodash](https://lodash.com/): a modern JavaScript utility library delivering modularity, performance & extras
+- [Clerk](https://clerk.com/): a user authentication library
+
+### List of tailwind components
+
+- [shadcn/ui](https://ui.shadcn.com/)
+- [tailwindcomponents](https://tailwindcomponents.com/)
+- [tailwindtoolbox](https://www.tailwindtoolbox.com/)
+- [tailwindui](https://tailwindui.com/)
 
 ## Mono repos
 
@@ -31,3 +43,26 @@
 ## Documentation
 
 - [Mintlify](https://mintlify.com/)
+- [Docusaurus](https://docusaurus.io/): a static site generator for documentation websites
+
+## Browser API and Javascript
+
+- [Share API](https://web.dev/web-share/)
+- [Regex](https://ihateregex.io/)
+
+## AI-based generators
+
+- [Copilot](https://github.com/features/copilot/): an AI-based code generator
+- [V0LT](https://v0.dev/): a tailwind component generator
+
+## Hosting and deployment
+
+- [AWS](https://aws.amazon.com/)
+- [Google Cloud](https://cloud.google.com/)
+- [Azure](https://azure.microsoft.com/)
+- [Digital Ocean](https://www.digitalocean.com/)
+- [Firebase](https://firebase.google.com/)
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
+- [Heroku](https://www.heroku.com/)
+- [Render](https://render.com/)
