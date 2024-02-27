@@ -7,7 +7,7 @@
 - [Svelte](https://svelte.dev/)
 - [Angular](https://angular.io/)
 
-### Css frameworks:
+### Css/Components frameworks:
 
 - [MUI](https://mui.com/): React only, easily customizable component library
 - [Tailwind](https://tailwindcss.com/): not a framework, but a utility-first CSS framework for rapidly building custom designs
