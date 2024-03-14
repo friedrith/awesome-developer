@@ -69,3 +69,7 @@
 - [Netlify](https://www.netlify.com/)
 - [Heroku](https://www.heroku.com/)
 - [Render](https://render.com/)
+
+## Other tools
+
+- [terminalizer](https://terminalizer.com/): a tool to record your terminal
