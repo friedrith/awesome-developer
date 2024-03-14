@@ -58,6 +58,10 @@
 - [Copilot](https://github.com/features/copilot/): an AI-based code generator
 - [V0LT](https://v0.dev/): a tailwind component generator
 
+## Notifications
+
+- [Novu](https://github.com/novuhq/novu): a notification service
+
 ## Hosting and deployment
 
 - [AWS](https://aws.amazon.com/)
