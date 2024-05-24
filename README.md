@@ -28,10 +28,11 @@
 
 ## Tailwind components
 
-- [Tailwind UI](https://tailwindui.com/): a collection of professionally designed, pre-built, fully responsive HTML snippets you can drop into your Tailwind projects
+- [Tailwind UI](https://ttailwindui.com/): a collection of professionally designed, pre-built, fully responsive HTML snippets you can drop into your Tailwind projects
 - [Tailwind Components](https://tailwindcomponents.com/): a collection of components and templates built with Tailwind CSS
 - [Aceternity](https://ui.aceternity.com)
 - [MagicUI](https://magicui.design/)
+- [headlessui](https://headlessui.dev/): completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS
 
 ## Icons
 
