@@ -7,7 +7,7 @@
 - [Svelte](https://svelte.dev/)
 - [Angular](https://angular.io/)
 
-### Css/Components frameworks:
+## Css/Components frameworks:
 
 - [MUI](https://mui.com/): React only, easily customizable component library
 - [Tailwind](https://tailwindcss.com/): not a framework, but a utility-first CSS framework for rapidly building custom designs
@@ -25,6 +25,18 @@
 - [Ant Design](https://ant.design/): a design system for enterprise-level products
 - [Chakra](https://chakra-ui.com/): a simple, modular and accessible component library that gives you the building blocks you need to build your React applications
 - [Park UI](https://park-ui.com/): a modern, responsive and accessible component library for React, Solid, Svelte and Vue
+
+## Tailwind components
+
+- [Tailwind UI](https://tailwindui.com/): a collection of professionally designed, pre-built, fully responsive HTML snippets you can drop into your Tailwind projects
+- [Tailwind Components](https://tailwindcomponents.com/): a collection of components and templates built with Tailwind CSS
+- [Aceternity](https://ui.aceternity.com)
+- [MagicUI](https://magicui.design/)
+
+## Icons
+
+- [Lordicon](https://lordicon.com/): animated icons
+- [Lucide](https://lucide.dev/): a simply beautiful open-source set of small icons
 
 ## Libraries
 
