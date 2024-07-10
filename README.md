@@ -38,6 +38,8 @@
 
 - [Lordicon](https://lordicon.com/): animated icons
 - [Lucide](https://lucide.dev/): a simply beautiful open-source set of small icons
+- [iconei](https://www.iconei.co/)
+- [pikaicons](https://pikaicons.com/)
 
 ## Libraries
 
