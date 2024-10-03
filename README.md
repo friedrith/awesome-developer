@@ -33,6 +33,7 @@
 - [Aceternity](https://ui.aceternity.com)
 - [MagicUI](https://magicui.design/)
 - [headlessui](https://headlessui.dev/): completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS
+- [EldoraUI](https://eldoraui.site/)
 
 ## Icons
 
