@@ -76,6 +76,7 @@
 ## Notifications
 
 - [Novu](https://github.com/novuhq/novu): a notification service
+- [NotificationAPI](https://www.notificationapi.com/): works very well.
 
 ## Hosting and deployment
 
