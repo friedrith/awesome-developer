@@ -72,12 +72,16 @@
 ## AI-based generators
 
 - [Copilot](https://github.com/features/copilot/): an AI-based code generator
-- [V0LT](https://v0.dev/): a tailwind component generator
+- [V0](https://v0.dev/): a tailwind component generator
 
 ## Notifications
 
 - [Novu](https://github.com/novuhq/novu): a notification service
 - [NotificationAPI](https://www.notificationapi.com/): works very well.
+
+## Stream
+
+- [Stream](https://getstream.io/): a service to build scalable news feeds and activity streams
 
 ## Hosting and deployment
 
