@@ -7,7 +7,7 @@
 - [Svelte](https://svelte.dev/)
 - [Angular](https://angular.io/)
 
-## Css/Components frameworks:
+## Css/Components frameworks
 
 - [MUI](https://mui.com/): React only, easily customizable component library
 - [Tailwind](https://tailwindcss.com/): not a framework, but a utility-first CSS framework for rapidly building custom designs
@@ -46,6 +46,7 @@
 
 - [Lodash](https://lodash.com/): a modern JavaScript utility library delivering modularity, performance & extras
 - [Clerk](https://clerk.com/): a user authentication library
+- [glitch effect](https://github.com/7PH/powerglitch)
 
 ### List of tailwind components
 
