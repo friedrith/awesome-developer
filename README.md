@@ -41,6 +41,7 @@
 - [Lucide](https://lucide.dev/): a simply beautiful open-source set of small icons
 - [iconei](https://www.iconei.co/)
 - [pikaicons](https://pikaicons.com/)
+- [social media icons](https://svgl.app/directory/social)
 
 ## Libraries
 
