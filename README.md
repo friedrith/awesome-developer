@@ -34,6 +34,8 @@
 - [MagicUI](https://magicui.design/)
 - [headlessui](https://headlessui.dev/): completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS
 - [EldoraUI](https://eldoraui.site/)
+- [Ever UI](https://www.ever-ui.com/): a lot of choices
+- [ReactBits](https://www.reactbits.dev): very nice background and animations
 
 ## Icons
 
