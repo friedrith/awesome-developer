@@ -22,7 +22,7 @@
 ## Components
 
 - [shadcn/ui](https://ui.shadcn.com/) for components
-- [nextjs templates](https://vercel.com/templates/next.js) 
+- [nextjs templates](https://vercel.com/templates/next.js)
 - [tailwindui](https://tailwindui.com/) need to pay but it is worth it
 - [magicui](https://magicui.design/)
 - [aceternity](https://ui.aceternity.com/)
@@ -40,3 +40,12 @@
 
 - [translations](https://next-intl-docs.vercel.app/)
 - https://www.youtube.com/watch?v=yfBtjLxn_6k&feature=youtu.be
+
+## Authentication
+
+- [clerk](https://clerk.dev/)
+- [next-auth](https://next-auth.js.org/)
+- [auth0](https://auth0.com/)
+- [firebase](https://firebase.google.com/)
+- [okta](https://www.okta.com/)
+- [stack-auth](https://github.com/stack-auth/stack-auth)
