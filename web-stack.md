@@ -28,6 +28,7 @@
 - [aceternity](https://ui.aceternity.com/)
 - [ever ui](https://www.ever-ui.com/): a lot of choices
 - [headlessui](https://headlessui.com/) for headless components
+- [supabase ui](https://supabase.com/ui) for shadcn/ui components compatible with supabase
 
 ## Tests
 
