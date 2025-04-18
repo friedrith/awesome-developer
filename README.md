@@ -50,6 +50,11 @@
 - [pikaicons](https://pikaicons.com/)
 - [social media icons](https://svgl.app/directory/social)
 
+## Animations
+
+- [https://animejs.com/](https://animejs.com/): a lightweight JavaScript animation library
+- [cursify](https://github.com/ui-layouts/cursify): a library to create a custom cursor
+
 ## Libraries
 
 - [Lodash](https://lodash.com/): a modern JavaScript utility library delivering modularity, performance & extras
