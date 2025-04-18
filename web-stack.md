@@ -1,5 +1,7 @@
 # Web Stack
 
+My current stack
+
 - [next.js](https://nextjs.org/)
 - [taiwind](https://tailwindcss.com/)
 - [vercel](https://vercel.com/) for the hosting

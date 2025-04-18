@@ -25,10 +25,12 @@
 - [Ant Design](https://ant.design/): a design system for enterprise-level products
 - [Chakra](https://chakra-ui.com/): a simple, modular and accessible component library that gives you the building blocks you need to build your React applications
 - [Park UI](https://park-ui.com/): a modern, responsive and accessible component library for React, Solid, Svelte and Vue
+- [Swipeable Sheets](https://silkhq.co/)
 
 ## Tailwind components
 
-- [Tailwind UI](https://ttailwindui.com/): a collection of professionally designed, pre-built, fully responsive HTML snippets you can drop into your Tailwind projects
+- [shadcn/ui](https://ui.shadcn.com/)
+- [Tailwind UI](https://tailwindui.com/): a collection of professionally designed, pre-built, fully responsive HTML snippets you can drop into your Tailwind projects
 - [Tailwind Components](https://tailwindcomponents.com/): a collection of components and templates built with Tailwind CSS
 - [Aceternity](https://ui.aceternity.com)
 - [MagicUI](https://magicui.design/)
@@ -36,6 +38,9 @@
 - [EldoraUI](https://eldoraui.site/)
 - [Ever UI](https://www.ever-ui.com/): a lot of choices
 - [ReactBits](https://www.reactbits.dev): very nice background and animations
+- [tailwindtoolbox](https://www.tailwindtoolbox.com/)
+- [supabase ui](https://supabase.com/ui) for shadcn/ui components compatible with supabase
+- [tweakcn](https://tweakcn.com/) to customize shadcn/ui themes
 
 ## Icons
 
@@ -50,13 +55,6 @@
 - [Lodash](https://lodash.com/): a modern JavaScript utility library delivering modularity, performance & extras
 - [Clerk](https://clerk.com/): a user authentication library
 - [glitch effect](https://github.com/7PH/powerglitch)
-
-### List of tailwind components
-
-- [shadcn/ui](https://ui.shadcn.com/)
-- [tailwindcomponents](https://tailwindcomponents.com/)
-- [tailwindtoolbox](https://www.tailwindtoolbox.com/)
-- [tailwindui](https://tailwindui.com/)
 
 ## Mono repos
 
