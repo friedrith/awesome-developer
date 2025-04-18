@@ -54,6 +54,7 @@
 
 - [https://animejs.com/](https://animejs.com/): a lightweight JavaScript animation library
 - [cursify](https://github.com/ui-layouts/cursify): a library to create a custom cursor
+- [react-spring](https://www.react-spring.io/): a library for creating animations in React
 
 ## Libraries
 
