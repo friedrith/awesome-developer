@@ -50,6 +50,10 @@
 - [pikaicons](https://pikaicons.com/)
 - [social media icons](https://svgl.app/directory/social)
 
+## Backggrounds
+
+- [patterncraft](https://patterncraft.fun/)
+
 ## Animations
 
 - [https://animejs.com/](https://animejs.com/): a lightweight JavaScript animation library
