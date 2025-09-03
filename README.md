@@ -41,6 +41,7 @@
 - [tailwindtoolbox](https://www.tailwindtoolbox.com/)
 - [supabase ui](https://supabase.com/ui) for shadcn/ui components compatible with supabase
 - [tweakcn](https://tweakcn.com/) to customize shadcn/ui themes
+- [shadcn.io](https://www.shadcn.io): a list of component for shadcn/ui
 
 ## Icons
 
