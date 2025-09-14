@@ -50,6 +50,7 @@
 - [iconei](https://www.iconei.co/)
 - [pikaicons](https://pikaicons.com/)
 - [social media icons](https://svgl.app/directory/social)
+- https://icons.pqoqubbw.dev/: animated icons
 
 ## Backggrounds
 
