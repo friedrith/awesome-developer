@@ -108,6 +108,11 @@
 - [Heroku](https://www.heroku.com/)
 - [Render](https://render.com/)
 
+## Project Management
+
+- [Plane](https://plane.so/)
+- [Linear](https://linear.app/)
+
 ## Other tools
 
 - [terminalizer](https://terminalizer.com/): a tool to record your terminal
