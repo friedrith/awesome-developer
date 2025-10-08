@@ -26,6 +26,7 @@
 - [Chakra](https://chakra-ui.com/): a simple, modular and accessible component library that gives you the building blocks you need to build your React applications
 - [Park UI](https://park-ui.com/): a modern, responsive and accessible component library for React, Solid, Svelte and Vue
 - [Swipeable Sheets](https://silkhq.co/)
+- [Reshaped](https://reshaped.so/)
 
 ## Tailwind components
 
