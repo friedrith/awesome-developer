@@ -117,6 +117,10 @@
 - [Plane](https://plane.so/)
 - [Linear](https://linear.app/)
 
+## AI Sdk & Mcp servers
+
+- [Next.js template for MCP server](https://github.com/vercel-labs/chatgpt-apps-sdk-nextjs-starter)
+
 ## Other tools
 
 - [terminalizer](https://terminalizer.com/): a tool to record your terminal
