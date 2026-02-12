@@ -126,3 +126,7 @@
 ## Other tools
 
 - [terminalizer](https://terminalizer.com/): a tool to record your terminal
+
+## Mobile
+
+- [React native templates](https://www.native-templates.com)
