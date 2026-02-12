@@ -45,6 +45,7 @@
 - [shadcn.io](https://www.shadcn.io): a list of component for shadcn/ui
 - [tailark](https://tailark.com/hero-section): a list of shadcn/ui components for marketing
 - [Material components for tailwind](https://www.material-tailwind.com)
+- [Vengence UI](https://www.vengenceui.com)
 
 ## Icons
 
