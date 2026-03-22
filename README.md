@@ -126,6 +126,7 @@
 ## Other tools
 
 - [terminalizer](https://terminalizer.com/): a tool to record your terminal
+- [skills.sh](https://skills.sh/)
 
 ## Mobile
 
