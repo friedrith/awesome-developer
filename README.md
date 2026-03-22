@@ -122,11 +122,11 @@
 
 - [Next.js template for MCP server](https://github.com/vercel-labs/chatgpt-apps-sdk-nextjs-starter)
 - [ChatGPT public app ui sdk](https://github.com/openai/apps-sdk-ui)
+- [skills.sh](https://skills.sh/)
 
 ## Other tools
 
 - [terminalizer](https://terminalizer.com/): a tool to record your terminal
-- [skills.sh](https://skills.sh/)
 
 ## Mobile
 
