@@ -46,6 +46,7 @@
 - [tailark](https://tailark.com/hero-section): a list of shadcn/ui components for marketing
 - [Material components for tailwind](https://www.material-tailwind.com)
 - [Vengence UI](https://www.vengenceui.com)
+- [Untitled UI](https://www.untitledui.com/react): open-source React components built with Tailwind CSS and React Aria
 
 ## Icons
 
