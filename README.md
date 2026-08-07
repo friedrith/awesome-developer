@@ -56,6 +56,7 @@
 - [pikaicons](https://pikaicons.com/)
 - [social media icons](https://svgl.app/directory/social)
 - https://icons.pqoqubbw.dev/: animated icons
+- [Morphicons](https://www.morphicons.com/): animated icons
 
 ## Backggrounds
 
