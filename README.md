@@ -44,6 +44,7 @@
 - [tweakcn](https://tweakcn.com/) to customize shadcn/ui themes
 - [shadcn.io](https://www.shadcn.io): a list of component for shadcn/ui
 - [tailark](https://tailark.com/hero-section): a list of shadcn/ui components for marketing
+- [shadcnspace](https://shadcnspace.com/blocks/dashboard-ui/sidebars): dashboard UI sidebar blocks for shadcn/ui
 - [Material components for tailwind](https://www.material-tailwind.com)
 - [Vengence UI](https://www.vengenceui.com)
 - [Untitled UI](https://www.untitledui.com/react): open-source React components built with Tailwind CSS and React Aria
