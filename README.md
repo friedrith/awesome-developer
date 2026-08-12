@@ -94,6 +94,7 @@
 
 - [Copilot](https://github.com/features/copilot/): an AI-based code generator
 - [V0](https://v0.dev/): a tailwind component generator
+- [MotionSites](https://motionsites.ai/): a library of ready-made prompts to generate animated landing pages with AI coding tools (Lovable, Cursor, Bolt, etc.)
 
 ## Notifications
 
