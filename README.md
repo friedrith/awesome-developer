@@ -69,6 +69,10 @@
 - [cursify](https://github.com/ui-layouts/cursify): a library to create a custom cursor
 - [react-spring](https://www.react-spring.io/): a library for creating animations in React
 
+## Design inspiration
+
+- [dark.design](https://www.dark.design/): a curated gallery of dark themed websites
+
 ## Libraries
 
 - [Lodash](https://lodash.com/): a modern JavaScript utility library delivering modularity, performance & extras
