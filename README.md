@@ -69,6 +69,10 @@
 - [cursify](https://github.com/ui-layouts/cursify): a library to create a custom cursor
 - [react-spring](https://www.react-spring.io/): a library for creating animations in React
 
+## Design inspiration
+
+- [dark.design](https://www.dark.design/): a curated gallery of dark themed websites
+
 ## Libraries
 
 - [Lodash](https://lodash.com/): a modern JavaScript utility library delivering modularity, performance & extras
@@ -94,6 +98,7 @@
 
 - [Copilot](https://github.com/features/copilot/): an AI-based code generator
 - [V0](https://v0.dev/): a tailwind component generator
+- [MotionSites](https://motionsites.ai/): a library of ready-made prompts to generate animated landing pages with AI coding tools (Lovable, Cursor, Bolt, etc.)
 
 ## Notifications
 
