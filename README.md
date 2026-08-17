@@ -72,6 +72,7 @@
 ## Design inspiration
 
 - [dark.design](https://www.dark.design/): a curated gallery of dark themed websites
+- [CollectUI](https://collectui.com/): a daily updated gallery of hand-picked UI designs from Dribbble, organized by Daily UI challenge (sign-up, checkout, 404, etc.)
 
 ## Libraries
 
