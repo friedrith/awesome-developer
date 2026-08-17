@@ -68,6 +68,7 @@
 - [https://animejs.com/](https://animejs.com/): a lightweight JavaScript animation library
 - [cursify](https://github.com/ui-layouts/cursify): a library to create a custom cursor
 - [react-spring](https://www.react-spring.io/): a library for creating animations in React
+- [Canvas UI](https://canvasui.dev): creative canvas and WebGL effects (particles, liquid, glass refraction, cloth) running over live HTML that stays interactive, for React, Vue, Svelte, Solid and vanilla JS
 
 ## Design inspiration
 
