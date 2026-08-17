@@ -138,4 +138,4 @@
 
 ## Mobile
 
-- [React native templates](https://www.native-templates.com)
+- [React native templates](https://www.native-templates.com): production-ready React Native templates built with Expo and NativeWind (onboarding, checkout, booking, dashboard flows)
