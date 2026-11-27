@@ -89,6 +89,7 @@
 
 - [Mintlify](https://mintlify.com/)
 - [Docusaurus](https://docusaurus.io/): a static site generator for documentation websites
+- [DocsAlot](https://docsalot.dev/): a documentation platform with OpenAPI support, GitHub integration, and hosted MCP servers
 
 ## Browser API and Javascript
 
